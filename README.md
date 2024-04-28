@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Wesley</h1>
 <h3 align="center">A full stack web developer and software engineering student.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleydcm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleydcm" /> </p>
-
 - 📫 How to reach me **wesleycostamatos@gmail.com**
 
 - 📄 Know about my experiences [link to my CV](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)

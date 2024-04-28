@@ -3,14 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wesleydcm&label=Profile%20views&color=0e75b6&style=flat" alt="wesleydcm" /> </p>
 
-- 🔭 I’m currently working on [Next.js Acme App](https://github.com/wesleydcm/nextjs-dashboard)
-
-- 🌱 I’m currently learning **Software Engineering**
-
-- 👯 I’m looking to collaborate on [Totem Rede Ancora](https://github.com/ArthurTakamori/totem_rede_ancora)
-
-- 💬 Ask me about **react, node and sql**
-
 - 📫 How to reach me **wesleycostamatos@gmail.com**
 
 - 📄 Know about my experiences [link to my CV](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)

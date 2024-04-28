@@ -1,6 +1,6 @@
-# Bem-vindo ao Mundo do Desenvolvimento Web de Wesley! 👋
+# Bem-vindo à Teia Global de Desenvolvimento Web por Wesley! 🌐✨
 
-Olá, sou Wesley, um apaixonado desenvolvedor full stack e estudante de engenharia de software. Estou constantemente buscando aprender e criar coisas incríveis!
+Olá! Sou Wesley, um desenvolvedor full stack e estudante de engenharia de software apaixonado por explorar a World Wide Web em busca de novas oportunidades e desafios.
 
 📫 Como entrar em contato comigo: wesleycostamatos@gmail.com
 

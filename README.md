@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil GitHub! Sou o Wesley 🌐✨
+## Bem-vindo ao meu perfil GitHub! Sou o Wesley.
 
 💻 Desenvolvedor web full stack e estudante de engenharia de software, apaixonado por resolver problemas através do código.
 

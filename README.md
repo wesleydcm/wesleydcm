@@ -1,10 +1,10 @@
 ## Bem-vindo ao meu perfil GitHub! Sou o Wesley 🌐✨
 
-💻 Desenvolvedor web full stack e estudante de engenharia de software. 
-Entusiasta da tecnologia, convicto de seu poder transformador para solucionar desafios complexos e agregar valor à sociedade.
+💻 Desenvolvedor web full stack e estudante de engenharia de software, apaixonado por resolver problemas através do código.
 
+🔍 Busco constantemente aprender e evoluir, interessado no avanço do software em sincronia com o progresso da capacidade computacional.
 
-Fique avontade para explorar os repositorios e entrar em contato. Bora programar 🚀.
+🚀 Explore meus repositórios e sinta-se à vontade para entrar em contato. Vamos codificar juntos!
 
 --- 
 

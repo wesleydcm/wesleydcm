@@ -6,13 +6,15 @@
 
 🚀 Sinta-se à vontade para entrar em contato e, ou abrir uma PR. Bora codificar juntos! :shipit:
 
---- 
+---
 
-## Experiências
+### Experiências
 
-- 💼 Conheça minhas experiências: [Currículo](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)
+💼 Conheça minhas experiências: [Currículo](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)
 
-## Conecte-se comigo
+---
+
+### Conecte-se comigo
 
 <div>
 <a href="mailto:wesleycostamatos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="wesleycostamatos@gmail.com"></a>

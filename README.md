@@ -2,7 +2,7 @@
 
 💻 Eu sou desenvolvedor web full stack e estudante de engenharia de software, apaixonado por resolver problemas através do código.
 
-🔍 Busco constantemente aprender e evoluir, e tenho interesse no avanço do software em sincronia com o progresso da capacidade computacional.
+🔍 Busco constantemente aprender e evoluir, tenho interesse no avanço do software em sincronia com o progresso da capacidade computacional.
 
 🚀 Sinta-se à vontade para entrar em contato e, ou abrir uma PR. Bora codificar juntos! :shipit:
 

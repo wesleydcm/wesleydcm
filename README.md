@@ -6,6 +6,15 @@
 
 📚 Busco constantemente aprender e evoluir, tenho interesse no avanço do software em sincronia com o progresso da capacidade computacional.
 
+<!--
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=wesleydcm&theme=ayu-mirage&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wesleydcm&layout=compact&theme=ayu-mirage&count_private=true&hide_border=true)</a>
+</details>
+-->
+
 ---
 
 ### 🌱 Explorando Novas Tecnologias
@@ -17,14 +26,24 @@
 
 ### 🚀 Habilidades Técnicas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,sass,bootstrap,jquery)](https://skillicons.dev)
+***Stack Principal***
 
-[![My Skills](https://skillicons.dev/icons?i=ts,npm,react,redux,styledcomponents,mui,next,tailwind)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=py,flask,django,nodejs,express,prisma,jest)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,jest,npm,vite,react,redux,next)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vite,regex,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,mui,tailwind,figma,git)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=py,flask,django,nodejs,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
+
+
+
+<details>
+  <summary>Outras ferramentas ⚡</summary>
+  
+  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,regex,bootstrap,jquery)](https://skillicons.dev)
+ 
+</details>
 
 ---
 

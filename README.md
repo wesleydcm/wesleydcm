@@ -2,7 +2,7 @@
 
 💻 I'm a full-stack web developer and student of applied artificial intelligence. Passionate about solving problems through code.
 
-📚 I seek to constantly learn and evolve, I am interested in the advancement of software in sync with the progress of computational capacity.
+📚 I'm always eager to learn and grow, keen on the progression of software alongside the evolution of computational capabilities. Moreover, I have a particular interest in exploring AI solutions for various societal contexts, aiming to apply these technologies to solve problems and enhance people's lives.
 
 <!--
 <details>

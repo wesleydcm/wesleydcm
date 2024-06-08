@@ -42,7 +42,7 @@
 <details>
   <summary>Other tools 🛠️ ⚡</summary>
   
-  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,regex,bootstrap,jquery)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,vscode,idea,github,regex,bootstrap,jquery)](https://skillicons.dev)
  
 </details>
 

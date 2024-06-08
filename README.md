@@ -1,10 +1,8 @@
-# Olá, sou o Wesley! 👋🏼
+# Hello world, I'm Wesley! 👋🏼
 
-📍 Moro em São Paulo, SP, Brasil.
+💻 I'm a full-stack web developer and student of applied artificial intelligence. Passionate about solving problems through code.
 
-💻 Eu sou desenvolvedor web full stack e estudante de engenharia de software, apaixonado por resolver problemas através do código.
-
-📚 Busco constantemente aprender e evoluir, tenho interesse no avanço do software em sincronia com o progresso da capacidade computacional.
+📚 I seek to constantly learn and evolve, I am interested in the advancement of software in sync with the progress of computational capacity.
 
 <!--
 <details>
@@ -17,7 +15,7 @@
 
 ---
 
-### 🌱 Explorando Novas Tecnologias
+### 🌱 Exploring New Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://docs.spring.io/spring-boot/index.html)
@@ -27,9 +25,9 @@
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
  
 
-### 🚀 Habilidades Técnicas
+### 🧠⚙️ Tech skills
 
-***Stack Principal***
+***Main Stack***
 
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,jest,npm,vite,react,redux,next)](https://skillicons.dev)
@@ -42,7 +40,7 @@
 
 
 <details>
-  <summary>Outras ferramentas ⚡</summary>
+  <summary>Other tools 🛠️ ⚡</summary>
   
   [![My Skills](https://skillicons.dev/icons?i=linux,vscode,github,regex,bootstrap,jquery)](https://skillicons.dev)
  
@@ -50,15 +48,15 @@
 
 ---
 
-### 💼 Experiências
+### 💼 Experiences
 
-Conheça minhas experiências: [Currículo](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)
+Discover my experiences: [CV](https://docs.google.com/document/d/e/2PACX-1vQnViJaD6rbh-nybOOViOqBdQxEcpYkSlgqhIEpcbSdrW3fmNHEhpY-qqgr7HlA_HChgsDlh_SXyKe3/pub)
 
 ---
 
-### 📬 Conecte-se comigo
+### 📬 Connect with me
 
-Sinta-se à vontade para entrar em contato e, ou abrir uma PR. Bora codificar juntos! :shipit:
+Feel free to get in touch and, or open a PR. Let's code together! :shipit:
 
 <div>
 <a href="https://www.linkedin.com/in/wesleydcm" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 

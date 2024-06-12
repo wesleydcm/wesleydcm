@@ -19,9 +19,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://docs.oracle.com/en/java/)
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://docs.spring.io/spring-boot/index.html)
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
 [![My Skills](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org/documentation/)
 [![My Skills](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
+[![My Skills](https://skillicons.dev/icons?i=docker)](https://docs.docker.com/)
+[![My Skills](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io/)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://docs.aws.amazon.com/)
  
 

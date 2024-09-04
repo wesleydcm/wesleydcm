@@ -1,4 +1,4 @@
-# Hello, I'm Wesley! 👋🏼
+# Hi, I'm Wesley! 👋🏼
 
 💻 I'm a full-stack web developer and student of applied artificial intelligence. Passionate about solving problems through code.
 

@@ -36,7 +36,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,mui,tailwind,figma,git)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=py,flask,django,nodejs,express)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mongodb,postgres,prisma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=firebase,redis,cloudflare,postgres,prisma,graphql)](https://skillicons.dev)
 
 
 
